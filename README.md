@@ -1,5 +1,5 @@
 # KeePass
-**Para iniciar ejecuta
+** Para iniciar ejecuta
 ```bash
 git clone https://github.com/4ntoniomj/KeePass
 cd KeePass
